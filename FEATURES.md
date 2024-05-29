@@ -31,6 +31,12 @@ Eg JS is famous example
 
 ## #garbage_collected
 
+## #excellent_type_inference_like_haskell
+Sry, having to copy paste types just eats up your time. CPU is fast. And might be faster tomorrow.
+This all might be leading to something like dynamic bidirectional typing because the interpreter
+requires this skill, too.
+See #infer_select_fields
+
 ## #compiles_to_js
     because JS runtime starts with browser and has been highly optimzed its great for small interactivity
 

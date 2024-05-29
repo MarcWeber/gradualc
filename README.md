@@ -3,6 +3,13 @@ An attempt to build a gradual compiler allowing you to gradually add features
 which should play well with other languages.
 
 # High level goals
+
+Getting rid of lock ins. If you have a project idea in mind you have to choose
+and settle on a language like PHP. Once you outgrow it (need app). You either
+have twice the work or need to switch language (major time effort).
+MicroPython -> switch to CPP.
+I am tired of learning new tools :-)
+
 Try to the future in the sense of providing a dev system which can turn into a
 specialist as needed while playing well with existing solutions allowing you to
 reuse your existing knowledge.
@@ -33,5 +40,8 @@ SEE ./FEATURES_CONTRADICTIONS.md
 # Some programming language and what they are missing out on
 See ./SOME_PROGRAMMING_LANGUAGES_AND_WHAT_THEY_ARE_MISSING_OUT_ON.md
 
-
 ./LEARNINGS_FROM_THE_PAST.md
+
+# How to read these *.md files
+Use search (github or clone and use editor) to follow them. It's fastest for typing.
+Vim/Emacs/vscode/Github(requires login) all have search in all files features or grep
