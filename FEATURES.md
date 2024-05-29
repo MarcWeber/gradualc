@@ -152,8 +152,10 @@ Example 4: zip
 ## #proof_system
 Big topic, no idea yet how to start this cause it also slows down
 
+## #call_into_webassembly
+
 ## #run_code_in_different_context
-Run code in different context. Examples: Shell, SQL, #easy_backend_calling
+Run code in different context. Examples: Shell, SQL, #easy_backend_calling, #call_into_webassembly
 code (traditional API),  run untrusted code in safer sandbox, ..
 
 ## #smart_code_templates
