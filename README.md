@@ -45,19 +45,20 @@ the frontend was written in Dart and you want same backend language ?
 
 # DETAILS
 
-See ./FEATURES.md
+See [FEATURES](./FEATURES.md)
 
-See ./BEING_ALTERNATIVE_TO.md 
+See [being an alternative to](./BEING_ALTERNATIVE_TO.md) 
 Think of it as potentially replacing if everything works out and the result is fast enough.
 
-See ./SOME_IMPORTANT_CONSEQUENCES.md
+See [some important consequences](./SOME_IMPORTANT_CONSEQUENCES.md)
 
-SEE ./FEATURES_CONTRADICTIONS.md
+SEE [features and their contradictions](./FEATURES_CONTRADICTIONS.md)
 
 # Some programming language and what they are missing out on
-See ./SOME_PROGRAMMING_LANGUAGES_AND_WHAT_THEY_ARE_MISSING_OUT_ON.md
+See [some programming languages and what they are missing out on](./SOME_PROGRAMMING_LANGUAGES_AND_WHAT_THEY_ARE_MISSING_OUT_ON.md)
 
-./LEARNINGS_FROM_THE_PAST.md
+[learnings from the past](./LEARNINGS_FROM_THE_PAST.md)
+
 
 # How to read these *.md files
 Use search (github or clone and use editor) to follow them. It's fastest for typing.
