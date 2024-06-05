@@ -11,8 +11,7 @@ Be must useful, assist the programmer and get out of the way.
   (JS/ Rust like / Python Like / Nix or Haskell like lazy / OO like to
   substitute Dart/Flutter / SQL Like for data querying)
   Example: plv8 can run SQL queries but doesn't return Promise !
-  So you can't use Knex easily without having to take much care
-  So use_async should be a library configuration input.
+  See #pain_point_knex_plv8
 - minimizing overhead by having one tool
 - minimizing dev cycles by being able to choose best fit for your case
   (interpreted vs compiled vs jitted vs partially interpreted vs interpreted)
@@ -23,9 +22,13 @@ Be must useful, assist the programmer and get out of the way.
   thus make it easy to run code in different context (SQL, backend, ..)
   Eg lookup useSSQ at rakkasjs to get an idea how to embed server side code within client code.
   In this case it happens to be the same language.
-- allow quick and dirty minimizing programmers time
-- write code based on types.
+- acknowledge programming languages are tool to get a job done.
+  Thus quick & Dirty / DSL for your case might make sense. In the end you as
+  programmer are repsonsible for the result.
+- #write_code_based_on_types.
   Fill in missing code eventually based on types
+- compromise less compiled vs getting job done
+  See #react_ssr_faster_with_compiled_languages
 
 Why?
 Try man zshall or bash and and learn how to use dictionaries or get a substring
@@ -59,6 +62,11 @@ See [some programming languages and what they are missing out on](./SOME_PROGRAM
 
 [learnings from the past](./LEARNINGS_FROM_THE_PAST.md)
 
+# IMPACT
+This project might impact probably way beyond 20 million people:
+https://www.linkedin.com/pulse/how-many-software-developers-world-codeninjainc
+https://en.wikipedia.org/wiki/GitHub
+
 
 # How to read these *.md files
 Use search (github or clone and use editor) to follow them. It's fastest for typing.
@@ -66,3 +74,7 @@ Vim/Emacs/vscode/Github(requires login) all have search in all files features or
 
 # expected issues
 The goal is complex (sry) 
+
+# Why this project exists
+[pain-points-leading-to-this-project](./PAIN_POINT_LEADING_TO_THIS_PROJECT.md)
+If the pain pointns go away, the reason for this project might vanish.
