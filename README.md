@@ -67,6 +67,11 @@ This project might impact probably way beyond 20 million people:
 https://www.linkedin.com/pulse/how-many-software-developers-world-codeninjainc
 https://en.wikipedia.org/wiki/GitHub
 
+# mixed language examples
+vite using esbuild which is written in GO
+All website using Webassembly
+bun using Zig for speed adding JS runtime on top
+...
 
 # How to read these *.md files
 Use search (github or clone and use editor) to follow them. It's fastest for typing.
